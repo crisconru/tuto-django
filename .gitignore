@@ -1,2 +1,5 @@
 .idea/
 *.sqlite3
+bin/
+include/
+lib/
